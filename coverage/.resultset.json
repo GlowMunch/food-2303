@@ -19,6 +19,7 @@
           1,
           1,
           1,
+          0,
           null,
           null,
           1,
@@ -78,7 +79,15 @@
       },
       "/Users/bg/turing/3mod/midmod/food-2303/app/facades/food_search_facade.rb": {
         "lines": [
-
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
         ],
         "branches": {
         }
@@ -117,12 +126,21 @@
       },
       "/Users/bg/turing/3mod/midmod/food-2303/app/poros/food.rb": {
         "lines": [
-
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          null,
+          0
         ],
         "branches": {
         }
       }
     },
-    "timestamp": 1689954322
+    "timestamp": 1689958014
   }
 }
